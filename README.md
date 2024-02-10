@@ -18,14 +18,14 @@ Technology that used on this project
 
   
 Product model with the following attributes:
-•	Category Id
-•	Id (a randomly generated unique identifier)
-•	Title
-•	Description
-•	Price
-•	Image
-•	Dietary flags: vegan, lactose-free, and more flags to come
-•	Number of views/impressions
+-	Category Id
+-	Id (a randomly generated unique identifier)
+-	Title
+-	Description
+-	Price
+-	Image
+-	Dietary flags: vegan, lactose-free, and more flags to come
+-	Number of views/impressions
 Every Product should be link with Category
 
 Build RESTful APIs Endpoint to allow clients to carry out CRUD operations on a single product, and single category
