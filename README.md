@@ -31,5 +31,3 @@ Every Product should be link with Category
 Build RESTful APIs Endpoint to allow clients to carry out CRUD operations on a single product, and single category
 
 Build RESTful APIs Endpoint to allow clients to search for products by name or description
-ُرث
-ُصشبخحصشصبشص
