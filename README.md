@@ -28,6 +28,8 @@ Product model with the following attributes:
 -	Number of views/impressions
 Every Product should be link with Category
 
+The image will be save in the DataBase as varbinary
+
 Build RESTful APIs Endpoint to allow clients to carry out CRUD operations on a single product, and single category
 
 Build RESTful APIs Endpoint to allow clients to search for products by name or description
